@@ -1,6 +1,7 @@
 package com.gozturko.demo.domain;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
+import org.springframework.web.bind.annotation.CrossOrigin;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
